@@ -1,5 +1,5 @@
 # CartPole-DQN-Pytorch
-Implements of DQN with pytoch to play CartPole
+Implements of DQN with pytorch to play CartPole
 ## Dependency 
 gym
 numpy
